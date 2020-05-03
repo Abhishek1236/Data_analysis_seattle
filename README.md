@@ -29,3 +29,4 @@ you can download them from https://www.kaggle.com/airbnb/seattle.
 4) make sure that data and ipynb file are in same location.
 5) open the ipynb file and run the columns.
 # Summary
+https://medium.com/@abhishekravi60/demystifying-crisp-dm-with-seattle-airbnb-data-1f2a3d87fe5b?sk=d14b02f71915e5fb9391ad3517992cb1
